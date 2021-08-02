@@ -4,8 +4,13 @@ public class zadanie_git {
 		System.out.println("develop 7");
 		 System.out.println("hotfix");
 		System.out.println("develop 3");
+
 		System.out.println("feature 2.2");
 		System.out.println("release 1.3");
+
+		System.out.println("feature 2.5");
+		System.out.println("release 1.1");
+
 
     }
 }
